@@ -506,12 +506,9 @@ a {
     fill: currentColor;
 }
 
-.footer-subscribe {
-    margin-left: auto;
-}
-@media (min-width: 768px) {
+@media (min-width: 1158px) {
     .footer-subscribe {
-        margin-left: 0;
+        margin-left: auto;
     }
 }
 
